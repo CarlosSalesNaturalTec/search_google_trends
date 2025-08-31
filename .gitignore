@@ -1,0 +1,22 @@
+# Arquivos de ambiente
+.env
+
+# Credenciais do Google Cloud
+config/*.json
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos de build do Docker
+docker-compose.yml
+docker-compose.override.yml
